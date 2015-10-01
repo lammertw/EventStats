@@ -1,0 +1,15 @@
+{
+  "name": "EventStats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "lodash-contrib": "^241.4.14"
+  },
+  "author": "Lammert Westerhoff",
+  "license": "ISC"
+}
